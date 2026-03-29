@@ -1,4 +1,3 @@
-# DEEP-LEARNING-APPROACH-FOR-LAND-COVER-TYPE-CLASSIFICATION-FOR-NATURAL-DISASTER-APPLICATION
 # 🌍 Deep Learning Approach for Land Cover Type Classification for Natural Disaster Applications
 
 ## 📌 Project Overview
